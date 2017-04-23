@@ -1,5 +1,7 @@
 **Final Project**
-**Baseball**
+Data Analysis on Baseball dataset using Python
+
+The History of Baseball is a reformatted version of the famous Lahman’s Baseball Database. It contains Major League Baseball’s complete batting and pitching statistics from 1871 to 2015, plus fielding statistics, standings, team stats, park stats, player demographics, managerial records, awards, post-season data, and more.
 
 **Analysis 1**: Here the analysis is done on finding out what kind of player will be admitted into a Hall of Fame.
 Hall of fame is a national museum for Baseball. The question can be analyzed in a different perspective such as players biographic analysis or by players baseball skill analysis. 
